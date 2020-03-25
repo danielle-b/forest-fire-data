@@ -1,2 +1,2 @@
-# forest-fire-data
+# Forest Fire Data
 Analyzing Forest Fire Data Using R
