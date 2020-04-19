@@ -9,7 +9,10 @@ output:
 &nbsp;
 &nbsp;
 
-In this project, I used the techniques that I learned in the first three courses of Dataquest's Data Analyst in R track to analyze forest fires in Portugal. 
+In this project, I analyzed forest fires data. The goals of this project were to :
+  1. Practice creating bar charts, box plots, scatter plots, and other data visualizations.
+  2. Build intuition around when to use different data visualization techniques.
+  3. Explore ways to use data visualization to answer questions about data. 
 
 &nbsp;
 
